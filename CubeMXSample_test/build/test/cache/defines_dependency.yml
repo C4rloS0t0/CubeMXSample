@@ -1,0 +1,5 @@
+---
+build/test/mocks/mock_stm32f4xx_hal.c:
+- TEST
+src/main_module.c:
+- TEST
